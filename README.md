@@ -7,8 +7,8 @@ The system classifies customer messages into eight data-derived intents, retriev
 ## Setup
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
-cd hiver-amazonhelp-agent
+git clone <https://github.com/meghaganesh-m5/hiver-amazonhelp-ai-agent>
+cd hiver-amazonhelp-ai-agent
 python -m venv .venv
 ```
 
